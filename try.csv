@@ -1,0 +1,10 @@
+From,To,Date,Duration (hrs),Arrival Time,Price (Rs.),Rating,Travel Company,Bus_ID,Wifi,TV,AC
+Chennai,Vellore,2023-04-14,3,13:01,622,2.9,Royal Travels,138477,No,No,Yes
+Chennai,Vellore,2023-04-14,3,10:51,534,3.3,Kallada Travels,929750,No,Yes,Yes
+Chennai,Vellore,2023-04-14,2,20:59,484,1.7,Royal Travels,877222,Yes,No,Yes
+Chennai,Vellore,2023-04-14,6,20:34,797,4.1,Kallada Travels,120954,No,Yes,Yes
+Chennai,Vellore,2023-04-14,6,21:12,763,3.1,Royal Travels,421696,No,No,Yes
+Chennai,Vellore,2023-04-14,6,18:22,462,4.0,KPN Travels,872367,Yes,No,Yes
+Chennai,Vellore,2023-04-14,4,15:21,748,3.1,Parveen Travels,408299,Yes,Yes,Yes
+Chennai,Vellore,2023-04-14,6,05:24,716,1.4,KPN Travels,1078099,No,No,Yes
+Chennai,Vellore,2023-04-14,2,05:34,795,2.3,Royal Travels,492201,No,No,Yes
